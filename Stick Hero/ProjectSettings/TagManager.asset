@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Point
+  - Line
+  - Column
+  - FallPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Point
+  - Line
+  - Column
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2500094757
+    locked: 0
+  - name: Symbol
+    uniqueID: 2919944177
+    locked: 0
+  - name: TopFlag
+    uniqueID: 1525502421
+    locked: 0
+  - name: BottomFlag
+    uniqueID: 2196888901
+    locked: 0
+  - name: LeftFoot
+    uniqueID: 4030985005
+    locked: 0
+  - name: RightFoot
+    uniqueID: 1412913131
+    locked: 0
+  - name: Hand
+    uniqueID: 2113976783
+    locked: 0
+  - name: Column
+    uniqueID: 3919021961
+    locked: 0
+  - name: Player
+    uniqueID: 687203451
+    locked: 0
+  - name: Line
+    uniqueID: 4191726963
+    locked: 0
+  - name: Camera
+    uniqueID: 882873825
+    locked: 0
